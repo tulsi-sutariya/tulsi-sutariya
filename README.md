@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tulasi Sutariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"> <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" /> 
+<p align="right"> <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="400"/> 
   
 - 🌱 I’m currently learning **Microsoft Office**
 
