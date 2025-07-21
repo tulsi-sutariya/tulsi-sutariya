@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tulasi Sutariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="400"  alt="coding" src="https://github.com/user-attachments/assets/2f455256-777c-4838-b9f1-b7d8114f0445" />
-
-
 <p align="right"> <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" /> 
+  
 - 🌱 I’m currently learning **Microsoft Office**
 
 - 👯 I’m looking to collaborate on **Frontend Development, UI/UX Designer, Web Designer, Web Development**
