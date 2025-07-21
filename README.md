@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <!-- Left Side: Text Content -->
-  <div style="flex: 1; min-width: 250px; text-align: left;">
+  <div style="flex-basis: 50%; min-width: 250px; text-align: left;">
     <ul>
       <li>🌱 I’m currently learning <strong>Microsoft Office</strong></li>
       <li>👯 I’m looking to collaborate on <strong>Frontend Development, UI/UX Designer, Web Designer, Web Development</strong></li>
@@ -15,7 +15,7 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex: 1; width: 400px; text-align: right;">
+  <div style="flex-basis: 50%; width: 400px; text-align: right;">
     <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="300"/>
   </div>
 </div>
