@@ -15,8 +15,8 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex-basis: 50%; width: 400px; text-align: right;">
-    <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="300"/>
+  <div style="flex-basis: 50%; width: 450px; text-align: right;">
+    <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="400"/>
   </div>
 </div>
 
