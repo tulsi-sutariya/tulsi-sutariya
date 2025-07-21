@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulasi Sutariya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <!-- Left Side: Text Content -->
@@ -15,7 +15,7 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
+  <div style="flex: 1; min-width: 250px; text-align: right;">
     <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="300"/>
   </div>
 </div>
