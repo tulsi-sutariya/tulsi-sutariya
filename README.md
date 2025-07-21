@@ -1,3 +1,4 @@
+![logo](https://github.com/tulsi-sutariya/tulsi-sutariya/blob/main/im.jpeg)
 <h1 align="center">Hi 👋, I'm Tulasi Sutariya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
