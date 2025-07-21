@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tulsi-sutariya&show_icons=true&locale=en&layout=compact" alt="tulsi-sutariya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tulsi-sutariya&show_icons=true&locale=en" alt="tulsi-sutariya" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tulsi-sutariya&" alt="tulsi-sutariya" /></p>
