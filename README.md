@@ -9,7 +9,6 @@
       <li>👯 I’m looking to collaborate on <strong>Frontend Development, UI/UX Designer, Web Designer, Web Development</strong></li>
       <li>💬 Ask me about <strong>React</strong></li>
       <li>📫 Reach me at: <strong>tulasisutariya2004@gmail.com</strong></li>
-      <li>📄 <a href="https://drive.google.com/file/d/1IlZiWt_4yMER9gJtVdlEtWEdBtXvvf6j/view?usp=drive_link" target="_blank">View My Resume</a></li>
       <li>⚡ Fun fact: <strong>I am Coder 😜</strong></li>
     </ul>
   </div>
