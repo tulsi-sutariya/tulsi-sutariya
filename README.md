@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="right"> <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="tulsi-sutariya" width="400"/> </p>
-  
+  <p align="left">
 - 🌱 I’m currently learning **Microsoft Office**
 
 - 👯 I’m looking to collaborate on **Frontend Development, UI/UX Designer, Web Designer, Web Development**
@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IlZiWt_4yMER9gJtVdlEtWEdBtXvvf6j/view?usp=drive_link](https://drive.google.com/file/d/1IlZiWt_4yMER9gJtVdlEtWEdBtXvvf6j/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Coder😜**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tulasi-sutariya-cte-gecbvn-it-09b560315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulasi-sutariya-cte-gecbvn-it" height="30" width="40" /></a>
