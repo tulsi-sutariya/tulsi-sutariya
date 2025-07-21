@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tulasi Sutariya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Left Side: Text Content -->
-  <div style="flex-basis: 50%; min-width: 250px; text-align: left;">
+  <div style="flex-basis: 50%; min-width: 250px; text-align: left; flex-wrap: wrap;">
     <ul>
       <li>🌱 I’m currently learning <strong>Microsoft Office</strong></li>
       <li>👯 I’m looking to collaborate on <strong>Frontend Development, UI/UX Designer, Web Designer, Web Development</strong></li>
