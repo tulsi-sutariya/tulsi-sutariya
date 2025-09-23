@@ -8,9 +8,9 @@
     <ul>
       <li>🌱 I’m currently learning <strong>Microsoft Office</strong></li>
       <li>👯 I’m looking to collaborate on <strong>Frontend Development, UI/UX Designer, Web Designer, Web Development</strong></li>
-      <li>💬 Ask me about <strong>React</strong></li>
+
       <li>📫 Reach me at: <strong>tulasisutariya2004@gmail.com</strong></li>
-      <li>⚡ Fun fact: <strong>I am Coder 😜</strong></li>
+      
     </ul>
   </div>
 
